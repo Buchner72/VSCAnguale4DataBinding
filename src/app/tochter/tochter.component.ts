@@ -33,6 +33,6 @@ export class TochterComponent implements OnInit {
 
   onClick(){
     this.clicked.emit('Event aus Tochter übernommen'); // Neues event los schicken!
-     this.clicked2.emit(this.tstring); // Neues event los schicken!
+     this.clicked2.emit(this.tstring); // Neues event los schicken !!
   }
 }
