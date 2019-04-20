@@ -9,4 +9,4 @@ export class AppComponent {
   title = 'app-component';
 }
 
-// Testzeile für Commit Test
+// Dieser Commit sollte funktionieren
