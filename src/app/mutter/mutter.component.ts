@@ -48,7 +48,7 @@ export class MutterComponent implements OnInit {
      setTimeout(() => {
       this.IsRahmen = false;
     }, 3000);
-  }
+  };
 
   ngOnInit() {
   }
